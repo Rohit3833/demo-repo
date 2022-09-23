@@ -1,3 +1,3 @@
 # Learn Git
 
-I am starting to learn git.
+I am starting to learn git today.
